@@ -14,12 +14,16 @@ Vite
 JSON Server (mock API)
 
 # Como rodar
-1. Instale as dependências:
-npm install
+# 1. Instale as dependências:
+- npm install
 
-2. Em dois terminais separados:
-Terminal 1 — sobe a API:
+# 2. Em dois terminais separados:
+- Terminal 1 — sobe a API:
+```bash
 npm run api
-Terminal 2 — sobe o frontend:
+```
+# Terminal 2 — sobe o frontend:
+```bash
 npm run dev
-Irá subir em http://localhost:5173
+```
+- Irá subir em http://localhost:5173
