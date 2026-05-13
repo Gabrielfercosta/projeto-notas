@@ -1,28 +1,28 @@
 # Projeto Notas
 Aplicação para criação e gerenciamento de notas com título e descrição.
 
-# Funcionalidades
+## Funcionalidades
 
 Adicionar notas com título e descrição
 Remover notas
 Buscar notas
 
-# Tecnologias
+## Tecnologias
 
 React
 Vite
 JSON Server (mock API)
 
-# Como rodar
-# 1. Instale as dependências:
+## Como rodar
+### 1. Instale as dependências:
 - npm install
 
-# 2. Em dois terminais separados:
+### 2. Em dois terminais separados:
 - Terminal 1 — sobe a API:
 ```bash
 npm run api
 ```
-# Terminal 2 — sobe o frontend:
+- Terminal 2 — sobe o frontend:
 ```bash
 npm run dev
 ```
