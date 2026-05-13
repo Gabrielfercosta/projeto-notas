@@ -1,0 +1,22 @@
+{
+  "notas": [
+    {
+      "id": 1,
+      "titulo": "Comprar mantimentos",
+      "conteudo": "leite, pão, café, frutas",
+      "fixada": false
+    },
+    {
+      "id": 2,
+      "titulo": "Reunião sexta-feira",
+      "conteudo": "preparar slides e revisar números do trimestre",
+      "fixada": true
+    },
+    {
+      "id": 3,
+      "titulo": "Ideias de presente",
+      "conteudo": "livro, fone, voucher de massagem",
+      "fixada": false
+    }
+  ]
+}
